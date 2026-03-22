@@ -1,7 +1,7 @@
 # PDF OCR Text Extraction Master / PDF OCR文本提取大师
 
-A professional PDF OCR text extraction tool that supports batch processing, multi-threading, and intelligent skipping.
-一个专业的PDF OCR文本提取工具，支持批量处理、多线程并行、智能跳过等功能。
+A professional PDF OCR text extraction tool that supports batch processing, multi-threading, and intelligent skipping.The upgraded version of “PDF-OCR-Exporter-lite” 
+一个专业的PDF OCR文本提取工具，支持批量处理、多线程并行、智能跳过等功能。PDF-OCR-Exporter-lite的升级版
 
 ## Copyright Information / 版权信息
 
